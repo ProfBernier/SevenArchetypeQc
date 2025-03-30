@@ -1,7 +1,7 @@
 # SevenArchetypeQc
 Fichiers et outils associées à sept archetypes representant le parc de maisons unifmaliales au Québec
 
-Le ficheir "SevenArchetypeQv_v2.zip est un fichier EES (Engineering Equation Solver) executable 
+Le fichier "SevenArchetypeQv_v2.zip est un fichier EES (Engineering Equation Solver) executable 
 Il peut être utilisé pour examiner différents scénarios de décarbonation
 (*_v2 expire on July 2025)
 
