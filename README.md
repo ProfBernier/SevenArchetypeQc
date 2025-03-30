@@ -1,6 +1,9 @@
 # SevenArchetypeQc
-Files associated with seven archetypes representing the single-family building stock in Qc
+Fichiers et outils associées à sept archetypes representant le parc de maisons unifmaliales au Québec
 
-The file "Pointe_Impact_Qc_2022_v2.zip is a zipped EES (Engineering Equation Solver) executable file
-It can be used to examine various scenarios of decarbonization of buildings
-(*_v2 expires on July 2025)
+Le ficheir "SevenArchetypeQv_v2.zip est un fichier EES (Engineering Equation Solver) executable 
+Il peut être utilisé pour examiner différents scénarios de décarbonation
+(*_v2 expire on July 2025)
+
+Cet outil a été utilisé dans cette étude: https://www.profs.polymtl.ca/michel.bernier/papers/2024/Bernier_Neale_Kummert_archetypes_eSim2024.pdf
+
